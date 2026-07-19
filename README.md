@@ -35,4 +35,4 @@ Using the official Microsoft Office Deployment Tool (ODT) framework, these utili
 
 ## Discussion & Community Feedback
 
-This automation workflow was originally developed to assist university students and remote professionals with quick environment setups. You can read the original community discussion, ask questions, and share your feedback in this **[Reddit Thread Reference](ВСТАВЬ_СЮДА_ПОРЯДКУЮ_ССЫЛКУ_НА_ТВОЙ_КОММЕНТАРИЙ_РЕДДИТА)**.
+This automation workflow was originally developed to assist university students and remote professionals with quick environment setups. You can read the original community discussion, ask questions, and share your feedback in this **[Reddit Thread Reference](https://www.reddit.com/r/unimelb/comments/jo9jx9/do_i_reduce_my_chances_of_getting_a_competent_gpa/)**.
